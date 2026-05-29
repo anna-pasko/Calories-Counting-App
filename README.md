@@ -1,8 +1,3 @@
-**Video presentation:**
-
-https://drive.google.com/file/d/1ZEGGM8F94Whxy0XQG2OKF-K5Q0h0MTL0/view?usp=sharing
-
- 
 
 ### **1. Design system:**
 
